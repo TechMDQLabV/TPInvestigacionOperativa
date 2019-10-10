@@ -1,0 +1,64 @@
+body {
+     background-attachment: fixed;
+     background-image: url(../images/img01.jpg);
+}
+#div_transparente {
+        background-color: rgba(0, 0, 0, 0.2);
+}
+.div_trans2 {
+        background-color: rgba(0, 0, 0, 0.2);
+}
+.div_trans5 {
+        background-color: rgba(0, 0, 0, 0.5);
+}
+.div_trans8 {
+        background-color: rgba(0, 0, 0, 0.8);
+}
+.divPadding{
+  padding: 20px;
+}
+.right{
+   text-align: right;
+}
+.left{
+   text-align: left;
+}
+.center{
+        text-align: center;
+     }
+.vcentered{
+   vertical-align: middle;
+}
+.cursorHand{
+   cursor: pointer;
+   cursor: hand;
+}
+.input-error{
+        color: rgb(247, 168, 77);
+}
+.text-white{
+        color: white;
+}
+.text-red{
+        color: red;
+}
+li{
+        color: white !important;
+}
+/*
+a{
+        color: white !important;
+}
+a:hover{
+        background-color: #585858 !important;
+}
+a:active{
+        background-color: #1c1c1c !important;
+}
+*/
+#app {
+        font-family: 'Avenir', Helvetica, Arial, sans-serif;
+        -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale;
+        text-align: center;
+      }
